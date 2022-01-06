@@ -4,7 +4,7 @@ An app that helps users book slots and take memberships for their physical recre
 
 ## UI
 
-<img src="https://user-images.githubusercontent.com/76965628/148340728-14cc4c09-9e98-4158-bf2d-8361bb4e0917.jpeg" width="250" height="400" />
+<img src="https://user-images.githubusercontent.com/76965628/148340728-14cc4c09-9e98-4158-bf2d-8361bb4e0917.jpeg" width="250" height="500" />
 
 ![login](https://user-images.githubusercontent.com/76965628/148340728-14cc4c09-9e98-4158-bf2d-8361bb4e0917.jpeg&s=200)
 ![home](https://user-images.githubusercontent.com/76965628/148340740-8574736d-3492-4d93-bf60-758e17bd7176.jpeg)

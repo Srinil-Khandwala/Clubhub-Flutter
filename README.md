@@ -1,6 +1,17 @@
-# club_hub
+# clubHub
 
 An app that helps users book slots and take memberships for their physical recreations in a sports club
+
+## Funtionalities: 
+1. Login/Signup
+2. Slot Booking
+3. Membership purchase
+4. Payment
+
+## Tools Used:
+1. Flutter
+2. Firebase
+3. Razorpay API
 
 ## UI
 
